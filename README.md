@@ -17,4 +17,6 @@
 - Auto Update
 - Search actual scripts
 - Auto rejoin
+
 - Ban Bypass
+![Без имени431](https://github.com/user-attachments/assets/dadab095-6a1c-4f9b-94e5-738841447280)
